@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App input {
+  margin: 10px;
+}
+.multi-select {
+  width: 60% !important;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+  height: 250px !important;
+}
